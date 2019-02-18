@@ -1,0 +1,1 @@
+[Go to Wiki](https://github.com/serge-mur/bitrix-docs/wiki)
